@@ -1,8 +1,10 @@
 **🧠 Single-Cycle RISC-V Processor (Verilog Implementation)**
+
 This project is a Single-Cycle RISC-V Processor implemented in Verilog HDL, based on the concepts presented in Computer Organization and Design RISC-V Edition: The Hardware/Software Interface (2nd Edition) by David A. Patterson and John L. Hennessy.
 The design follows the architectural concepts explained in Chapter 4, which focuses on the processor datapath and control for RISC-V instructions.
 
 **⚙️ Key Features**
+
 Implemented in Verilog HDL
 Supports R-type, I-type, S-type, B-type, and J-type instructions
 Includes major datapath components:
